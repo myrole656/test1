@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="testMika.DAL/testMika.DAL.csproj" />
+  <Project Path="testMika/testMika.csproj" />
+</Solution>
